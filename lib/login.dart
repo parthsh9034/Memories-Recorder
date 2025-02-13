@@ -9,9 +9,6 @@ import 'widgets/gradient_text.dart';
 import 'signup.dart';
 import 'homepage_empty.dart'; // Assuming this is your HomePage
 
-void main() {
-  runApp(const MyApp());
-}
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
